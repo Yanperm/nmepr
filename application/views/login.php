@@ -29,6 +29,7 @@
                     <div class="body"> 
                         <div class="auth_brand">   
                             <b class="text-success">Electric Patient Record</b>
+                            <b class="text-success">ระบบบริหารงานคลินิก</b>
                             <hr/>
                         </div>
                         <form class="form-auth-small m-t-20" action="<?php echo base_url('app/checklogin') ?>" method="POST">

@@ -28,7 +28,7 @@
 
                     <div class="body"> 
                         <div class="auth_brand">
-                        <h3>Login</h3>   
+                            <h3><b>Login</b></h3>   
                             <b class="text-success">Electric Patient Record</b>
                             <hr/>
                         </div>
@@ -36,9 +36,7 @@
                             <div class="form-group">
                                 <label for="signin-email" for="signin-email" class="control-label sr-only">Username</label>
                                 <input type="text" name="USERNAME" class="form-control round is-valid " required id="signin-email" value="" placeholder="Your@mail.com" >
-                                <div class="invalid-feedback">
-                                    Please provide a valid city.
-                                </div>
+                                
                             </div>
                             <div class="form-group">
                                 <label for="signin-password" class="control-label sr-only">Password</label>

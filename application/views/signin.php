@@ -70,6 +70,5 @@
         <script src="<?php echo base_url() ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
         <script src="<?php echo base_url() ?>assets/bundles/vendorscripts.bundle.js"></script>
-        <script src="<?php echo base_url() ?>assets/js/common.js"></script>
     </body>
 </html>

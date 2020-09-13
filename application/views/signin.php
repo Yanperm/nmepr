@@ -27,12 +27,12 @@
                 <div class="card">
 
                     <div class="body"> 
-                        <div class="auth_brand">   
+                        <div class="auth_brand">
+                        <h3>Login</h3>   
                             <b class="text-success">Electric Patient Record</b>
-                            <b class="text-success">ระบบบริหารงานคลินิก</b>
                             <hr/>
                         </div>
-                        <form class="form-auth-small m-t-20" action="<?php echo base_url('app/checklogin') ?>" method="POST">
+                        <form class="form-auth-small m-t-20" action="<?php echo base_url('manage/checklogin') ?>" method="POST">
                             <div class="form-group">
                                 <label for="signin-email" for="signin-email" class="control-label sr-only">Username</label>
                                 <input type="text" name="USERNAME" class="form-control round is-valid " required id="signin-email" value="" placeholder="Your@mail.com" >

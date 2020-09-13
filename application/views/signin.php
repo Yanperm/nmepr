@@ -28,7 +28,7 @@
 
                     <div class="body"> 
                         <div class="auth_brand">
-                            <h3><b>Login</b></h3>   
+                            <h3><b>Member | Login</b></h3>   
                             <b class="text-success">Electric Patient Record</b>
                             <hr/>
                         </div>

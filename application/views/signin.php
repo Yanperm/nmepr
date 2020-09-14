@@ -28,7 +28,6 @@
 
                     <div class="body"> 
                         <div class="auth_brand">
-                            <img src="<?php echo base_url('assets/images/Nutmor_1.png') ?>" width="120px"/> 
                             <h3><b>ตรวจสอบตัวตน</b></h3>   
                             <b class="text-success">Electric Patient Record</b>
                             <hr/>
